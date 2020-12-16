@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.renderWhitespace": "all",
+		"editor.formatOnSave": true,
+		"editor.rulers": [
+			88
+		],
+	}
+}
